@@ -1,7 +1,7 @@
 ## responsviepage with Bootstrap Grid
 
 URL : https://gilhwane.github.io/responsviepage/
-
+<text-align:center>
 ### header view
 ![header](https://user-images.githubusercontent.com/63918911/98514145-60e0da00-22ac-11eb-9563-c946710f6a6c.PNG)
 
